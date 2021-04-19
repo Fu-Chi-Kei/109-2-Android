@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">108590049_HW7_4.5</string>
+
+    <string name="donut_recipe">Doughnut OR Donut?</string>
+    <string name="donut_introduction">It is popular in many countries and is prepared in various forms as a sweet snack that can be homemade or purchased in bakeries,
+        supermarkets, food stalls, and franchised specialty vendors.*Doughnut* is the traditional spelling, whilst *donut* is the simplified version.
+        Both terms are often used interchangeably in the English-language.</string>
+
+    <string name="icecream_recipe">The Best (and Easiest) Ice Cream You’ll Ever Make</string>
+    <string name="icecream_introduction">Rich and creamy homemade vanilla ice cream recipe that only requires five ingredients!</string>
+
+    <string name="froyo_recipe">5-Minute Healthy Greek Frozen Yogurt</string>
+    <string name="froyo_introduction">Who says dessert can’t be healthy? Blend your way to the ultimate recipe for 5-Minute Healthy Greek Frozen Yogurt made with your choice of fruit!</string>
+
+</resources>
