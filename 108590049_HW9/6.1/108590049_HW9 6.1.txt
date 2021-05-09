@@ -1,0 +1,14 @@
+Question 1
+Which steps do you perform to test a View interaction, and in what order? Choose one:
+Ans:
+Match a View, perform an action, and assert and verify the result.
+
+Question 2
+Which of the following annotations enables an instrumented JUnit 4 test class? Choose one:
+Ans:
+@RunWith and @Test
+
+Question 3
+Which method would you use to find a child View in an AdapterView? Choose one:
+Ans:
+onData() to load the adapter and enable the child View to appear on the screen.
