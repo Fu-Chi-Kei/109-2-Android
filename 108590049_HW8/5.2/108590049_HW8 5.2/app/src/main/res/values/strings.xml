@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">108590049_HW8_5.2</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Praesent ultrices congue rutrum.
+        Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend
+        eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum
+        blandit, dolor diam fringilla tellus, eu euismod mauris neque
+        at neque.</string>
+
+    <string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Soccer</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Soccer news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array>
+
+    <string-array name="sports_details">
+        <item>Baseball, also known as wild ball, is a team game in which two teams of at least nine players play attack and defense on a fan-shaped field. Baseball players are divided into two sides: offense and defense. The offense players use the bat to hit the ball thrown by the defense side, and then run along the four bases. When they successfully run a circle and return to home plate, they get 1 run. The defensive team uses the glove to catch or throw the ball back to knock the attacker out. In the game, the teams alternate in defense and defense, and the team with the highest score in nine innings (six for Little League and seven for Little League) is bound to win. If both sides still have the same score after the regular 9 games, the extended game will be played.</item>
+        <item>Badminton is a game played by hitting a hemispherical cork with a circle of feathers at the end of the mouth flat across a net with a long-handled mesh racket. According to the number of participants, they can be divided into singles and doubles. Compared with the similar nature of tennis, badminton players, in addition to physical requirements, pay more attention to a short time of explosive power and reaction. Badminton has been an official sport in the Olympic Games since 1992.</item>
+        <item>Basketball is a ball game played by two teams on a rectangular basketball court. Each team of five players may pass, shoot, clap, roll, or dribble the ball in any direction in order to throw it into the opposing team's basket to score and prevent the opposing team from gaining possession of the ball or scoring. Basketball, one of the most watched ball games in the world, has been an official Olympic sport since 1936. A basket inside the three-point line is worth two points, and a basket outside the three-point line is worth three points. At the end of a game, the team with the most points wins, but an extended game is played if the two teams are tied. In a game, a player who has the ball may continue to dribble (bounce the ball to the ground and then bounce it back into his hands), march or run, or pass the ball to another player, but it is against the law to walk (the player who has the ball does not dribble and moves beyond a specified range or manner), flip the ball, or dribble twice.</item>
+        <item>Bowling is a target sport and recreational activity in which a player rolls a ball toward pins (in pin bowling) or another target (in target bowling). The term bowling usually refers to ten-pin bowling, though in the United Kingdom and Commonwealth countries bowling could also refer to lawn bowls.In pin bowling, the goal is to knock over pins on a long playing surface known as a lane. A strike is achieved when all the pins are knocked down on the first roll, and a spare is achieved if all the pins are knocked over on a second roll.</item>
+        <item>Cycling, also called bicycling or biking, is the use of bicycles for transport, recreation, exercise or sport. People engaged in cycling are referred to as "cyclists", "bicyclists", or "bikers". Apart from two-wheeled bicycles, "cycling" also includes the riding of unicycles, tricycles, quadricycles, recumbent and similar human-powered vehicles (HPVs).Bicycles were introduced in the 19th century and now number approximately one billion worldwide. They are the principal means of transportation in many parts of the world.</item>
+        <item>Golf is a club-and-ball sport in which players use various clubs to hit balls into a series of holes on a course in as few strokes as possible.Golf, unlike most ball games, cannot and does not utilize a standardized playing area, and coping with the varied terrains encountered on different courses is a key part of the game. The game at the usual level is played on a course with an arranged progression of 18 holes, though recreational courses can be smaller, often having nine holes. Each hole on the course must contain a teeing ground to start from, and a putting green containing the actual hole or cup 4 1⁄4 inches (11 cm) in diameter. There are other standard forms of terrain in between, such as the fairway, rough (long grass), bunkers (or "sand traps"), and various hazards (water, rocks) but each hole on a course is unique in its specific layout and arrangement.</item>
+        <item>Running is a method of terrestrial locomotion allowing humans and other animals to move rapidly on foot. Running is a type of gait characterized by an aerial phase in which all feet are above the ground (though there are exceptions). This is in contrast to walking, where one foot is always in contact with the ground, the legs are kept mostly straight and the center of gravity vaults over the stance leg or legs in an inverted pendulum fashion. A feature of a running body from the viewpoint of spring-mass mechanics is that changes in kinetic and potential energy within a stride occur simultaneously, with energy storage accomplished by springy tendons and passive muscle elasticity. The term running can refer to any of a variety of speeds ranging from jogging to sprinting.</item>
+        <item>Football is a family of team sports that involve, to varying degrees, kicking a ball to score a goal. Unqualified, the word football normally means the form of football that is the most popular where the word is used. Sports commonly called football include association football (known as soccer in some countries); gridiron football (specifically American football or Canadian football); Australian rules football; rugby football (either rugby union or rugby league); and Gaelic football. These various forms of football share to varying extent common origins and are known as football codes.</item>
+        <item>Swimming is the self-propulsion of a person through water, or a liquid substance, usually for recreation, sport, exercise, or survival. Locomotion is achieved through coordinated movement of the limbs and the body. Humans can hold their breath underwater and undertake rudimentary locomotive swimming within weeks of birth, as a survival response.</item>
+        <item>Table tennis, also known as ping-pong and whiff-whaff, is a sport in which two or four players hit a lightweight ball, also known as the ping-pong ball, back and forth across a table using small rackets. The game takes place on a hard table divided by a net. Except for the initial serve, the rules are generally as follows: players must allow a ball played toward them to bounce one time on their side of the table and must return it so that it bounces on the opposite side at least once. A point is scored when a player fails to return the ball within the rules. Play is fast and demands quick reactions. Spinning the ball alters its trajectory and limits an opponent's options, giving the hitter a great advantage.</item>
+        <item>Tennis is a racket sport that can be played individually against a single opponent (singles) or between two teams of two players each (doubles). Each player uses a tennis racket that is strung with cord to strike a hollow rubber ball covered with felt over or around a net and into the opponent's court. The object of the game is to maneuver the ball in such a way that the opponent is not able to play a valid return. The player who is unable to return the ball will not gain a point, while the opposite player will.</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+</resources>
