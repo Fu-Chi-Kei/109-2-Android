@@ -1,0 +1,29 @@
+Question 1
+What permissions does your app need to connect to the internet?
+Ans: android.permission.INTERNET
+
+Question 2
+How does your app check that internet connectivity is available?
+
+In the manifest:
+Ams: request ACCESS_NETWORK_STATE permission
+
+In the code:
+Ans: Use ConnectivityManager to check for an active network before connecting to the network.
+
+Question 3
+Where do you implement the loader callback method that's triggered when the loader finishes executing its task?
+Ans: In the Activity that displays the results of the task. The Activity must implement LoaderManager.LoaderCallbacks.
+
+Question 4
+When the user rotates the device, how do AsyncTask and AsyncTaskLoader behave differently if they are in the process of running a task in the background?
+Ans: A running AsyncTask becomes disconnected from the activity and stops running, preserving system resources. A running AsyncTaskLoader automatically restarts execution of its task from the beginning. The activity displays the results.
+
+Question 5
+How do you initialize an AsyncTaskLoader to perform steps, such as initializing variables, that must be done before the loader starts performing its background task?
+Ans: In onCreateLoader() in the activity, create an instance of the AsyncTaskLoader subclass. In the loader's constructor, perform initialization tasks.
+
+Question 6
+What methods must an AsyncTaskLoader implement?
+Ans: loadInBackground() , onStartLoading().
+
