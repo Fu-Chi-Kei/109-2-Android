@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">108590049_HW12 8.2</string>
+    <string name="alarm_on_toast">Wish is Alarm On!</string>
+    <string name="alarm_off_toast">Wish is Alarm Off!</string>
+    <string name="notification_title">Make a Wish!</string>
+    <string name="notification_text">It\'s 11:11!</string>
+    <string name="alarm_off">Alarm off</string>
+    <string name="alarm_on">Alarm on</string>
+</resources>
